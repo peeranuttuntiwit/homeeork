@@ -1,0 +1,65 @@
+body {
+  background-color: rgb(47, 22, 21);
+}
+.img {
+  background-image: url(https://50wheel.com/wp-content/uploads/2018/04/evaluating-video-content-creation.jpg);
+  height: 1900px;
+  width: 99%;
+  background-size: cover;
+  background-position: center;
+  justify-content: center;
+}
+.Head {
+  font-size: 150px;
+  text-align: center;
+  color: white;
+}
+.C {
+  text-align: center;
+  color: white;
+  font-size: 90px;
+}
+.A {
+  font-size: 50px;
+  text-align: center;
+  color: white;
+}
+.B {
+  text-align: center;
+  position: relative;
+  left: 2500px;
+  color: #adaa80;
+  font-size: 60px;
+  border: none;
+  justify-content: centerS;
+}
+.D {
+  background-color: white;
+  height: 1200px;
+  width: 99%;
+  background-size: cover;
+  background-position: right;
+  background-image: 50px;
+  justify-content: center;
+}
+.G {
+  position: relative;
+  bottom: -120px;
+  image-rendering: auto;
+  left: 40px;
+  height: 80px;
+  margin: 50px;
+}
+.Fo {
+  text-align: center;
+  font-size: 150px;
+}
+.fd {
+  bottom: -30px;
+  color: white;
+  text-align: center;
+  font-size: 300px;
+}
+.h5 {
+  font-size: 60px;
+}

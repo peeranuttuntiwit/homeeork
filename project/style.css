@@ -1,0 +1,210 @@
+body {
+  background-color: rgb(61, 66, 80);
+  font-family: Lucida, sans-serif;
+}
+.baner {
+  height: 600px;
+  width: 100%;
+  background-image: url(https://50wheel.com/wp-content/uploads/2018/04/evaluating-video-content-creation.jpg);
+  background-size: cover;
+  background-position: top center top;
+  display: flex;
+  justify-content: center;
+}
+.baner-form {
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+.baner-form > p2 {
+  font-size: medium;
+  color: white;
+  text-align: right;
+}
+.baner-form > h1 {
+  margin: 15px;
+}
+.baner-form > button {
+  background-color: rgb(46, 48, 51);
+  color: white;
+  border-radius: 5px;
+  border: none;
+  padding: 10px;
+  text-align: center;
+}
+
+.bu:hover {
+  background-color: rgb(155, 169, 197);
+  cursor: pointer;
+  border: none;
+}
+.p {
+  font-size: small;
+  background-color: rgba(44, 41, 41, 0.39);
+  height: 45px;
+  width: 110px;
+  border-radius: 25px;
+  position: relative;
+  left: 360px;
+  background-size: cover;
+}
+.blog {
+  height: 450px;
+  width: 800px;
+  color: white;
+  background-color: rgb(21, 45, 87);
+  text-align: center;
+  margin: auto;
+  border-radius: 15px;
+}
+.h {
+  color: rgba(132, 143, 160, 0.671);
+}
+
+.blog > h2 {
+  font-size: 180%;
+}
+
+.blog > h1 {
+  font-size: 180%;
+}
+.blog > p2 {
+  font-size: medium;
+  margin: 1px;
+  color: white;
+}
+
+.blog > p {
+  font-size: medium;
+  margin: 10px;
+  color: white;
+}
+.m {
+  color: white;
+}
+.blog2 {
+  text-align: center;
+  color: white;
+}
+
+.mu {
+  color: white;
+  font-size: small;
+}
+.blockconer {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  text-align: center;
+}
+.blog2 > h1 {
+  font-size: 200%;
+}
+
+.blog2 > h2 {
+  font-size: 95%;
+  color: rgba(255, 255, 255, 0.671);
+}
+.block-gard {
+  margin: auto;
+  width: 150px;
+  height: 300px;
+}
+.block-gard > img {
+  width: 150%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 25px;
+}
+.block-gard > p {
+  background-color: rgb(68, 46, 110);
+  position: relative;
+
+  text-align: center;
+  position: static;
+  color: rgba(132, 143, 160, 0.671);
+  width: 150%;
+  height: 120px;
+  margin: 5px;
+  border-radius: 10px;
+}
+.block-gard > p2 {
+  position: relative;
+
+  left: 35px;
+  text-align: center;
+  color: white;
+}
+
+.block-gards {
+  margin: auto;
+  width: 150px;
+  height: 300px;
+}
+.block-gards > img {
+  width: 150%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 25px;
+}
+.block-gards > p {
+  background-color: rgb(68, 46, 110);
+  position: relative;
+
+  text-align: center;
+  position: static;
+  color: rgba(132, 143, 160, 0.671);
+  width: 150%;
+  height: 120px;
+  margin: 5px;
+  border-radius: 10px;
+}
+.block-gards > p2 {
+  position: relative;
+
+  left: 35px;
+  text-align: center;
+  color: white;
+}
+.blockconers {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  text-align: center;
+}
+
+.ca {
+  background-color: rgb(68, 46, 110);
+  border-radius: 80px;
+  width: 100px;
+  height: 90px;
+  font-size: 250%;
+  position: absolute;
+  top: 630px;
+  left: 525px;
+}
+
+.block-gardss > p2 {
+  position: relative;
+  left: 35px;
+  text-align: center;
+  color: white;
+}
+.blockconerss {
+  width: 150px;
+  height: 120px;
+  position: absolute;
+  top: 2100px;
+  left: 245px;
+  text-align: center;
+}
+
+.block-gardss > p {
+  background-color: rgb(68, 46, 110);
+  position: relative;
+  text-align: center;
+  position: static;
+  color: black;
+  width: 150%;
+  height: 120px;
+  margin: 5px;
+  border-radius: 10px;
+}

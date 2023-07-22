@@ -1,0 +1,10 @@
+* {
+}
+body {
+  background-color: gray;
+}
+h1 {
+  text-decoration-color: rgb(200, g20reen, b3lue);
+  text-align: center;
+  text-transform: lowercase;
+}
